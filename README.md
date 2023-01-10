@@ -48,3 +48,5 @@ Frok from [HarukaMa Aleo Explorer](https://github.com/HarukaMa/aleo-explorer/)
 Using monitor to fetch block data and insert it into datebase .
 
 The public restful api : [Aleoscan-Api](https://api.aleoscan.info/)
+
+The public documentation : [Aleoscan-Docs](https://docs.aleoscan.info/)

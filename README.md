@@ -36,3 +36,15 @@ You might need to update some database indexes to make them usable for the prefi
 ## License
 
 AGPL-3.0-or-later
+
+
+
+# Aleo Explorer Data Collector
+
+## Description
+
+Frok from [HarukaMa Aleo Explorer](https://github.com/HarukaMa/aleo-explorer/)
+
+Using monitor to fetch block data and insert it into datebase .
+
+The public restful api : [Aleoscan-Api](https://api.aleoscan.info/)
